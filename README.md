@@ -79,3 +79,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 - [GitHub](https://github.com/valens200)
 
 - [Twitter](https://x.com/200Valens)
+
+## Thoughts
+
+As we move forward in the real world, there's always room for improvement in every line of code. I want to extend my sincere thanks to my mentor, the organization admins, and the community members for their continuous support and assistance throughout this project. It has been an exciting journey working with this wonderful community, and I’ve gained so much from the experience. I would also like to thank Google for providing this incredible opportunity. Keep pushing code!
