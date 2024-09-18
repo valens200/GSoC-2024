@@ -68,8 +68,12 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/upload_tree.png)
 
-    - 'LicenseControllerTest', GroupControllerTest, 'UploadControllerTest', 'OverViewControllerTest' and 'FolderControllerTest' [#2827](https://github.com/fossology/fossology/pull/2827)
+    - 'LicenseControllerTest', GroupControllerTest, 'CopyrightsControllerTest','UploadControllerTest', 'OverViewControllerTest' and 'FolderControllerTest' [#2827](https://github.com/fossology/fossology/pull/2827)
   <br />
+   'CopyrightsControllerTest'
+
+  ![image](./assets/Copyright.png) 
+
    'OverViewControllerTest'
 
   ![image](./assets/overview.png) 
@@ -89,12 +93,64 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
     'GroupControllerTest'
 
   ![image](./assets/group.png)
-  
-
-
 
 #### Models test cases.
+Models tests are numerous but I would like to show the screenshoots for some of them.
+ - 'AnaysisTest', 'BulkHistroryTest', 'ScanCodeTest', 'FolderTest' and so on.. [#2825](https://github.com/fossology/fossology/pull/2825)
+  <br />
+  'AnaysisTest'
+
+  ![image](./assets/models/analysis.png) 
+
+  'ScanCodeTest'
+
+  ![image](./assets/models/scancode.png)
+
+  'BulkHistroryTest'
+
+  ![image](./assets/models/history.png) 
+
+  'FolderTest'
+
+  ![image](./assets/models/folders.png)
+
+   - 'LicenseCandidateTest', 'AgentTest', 'DeciderTest',and so on.. [#2829](https://github.com/fossology/fossology/pull/2829)
+  <br />
+  'LicenseCandidateTest'
+
+  ![image](./assets/models/agent.png) 
+
+  'AgentTest'
+
+  ![image](./assets/models/lisence_candidate.png)
+
+  'DeciderTest'
+
+  ![image](./assets/models/decider.png) 
+
 ## Integration test cases development.
+   - 'FolderDAOTest'[#2830](https://github.com/fossology/fossology/pull/2830)
+  <br />
+  'FolderDAOTest'
+
+  ![image](./assets/daos/folder.png) 
+
+   - 'PfileDAOTest', 'ShowJobsDAOTest',UploadPermissionsDAOTest', 'UploadDATest' and so on.. [#2832](https://github.com/fossology/fossology/pull/2832)
+  <br />
+
+   'UploadPermissionsDAOTest'
+
+  ![image](./assets/daos/upload_permissions.png) 
+
+  'PfileDAOTest'
+
+  ![image](./assets/daos/pfile1.png) 
+   ![image](./assets/daos/pfile2.png) 
+
+   'ShowJobsDAOTest'
+
+  ![image](./assets/daos/showjobs1.png) 
+  ![image](./assets/daos/showjobs2.png) 
 
 ## Documentation:📄
 
