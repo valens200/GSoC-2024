@@ -83,7 +83,41 @@ Throughout the 12 weeks of the GSoC period, I created weekly documentation for r
 | Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark: | There's still a work ahead to ensure that all the DAOs follow integration testing standards and also making sure that the test coverage for each is at least 75%. |
 | Adding end-to-end tests for APIs | NO (WAS OPTIONAL) | :x: | This is an ongoing work current and even additional APIs that will be added in the future.
 
-# Let's get connected!
+## Future ventures:🚀
+In the pipeline are several exciting improvements to look forward to:
+
+- #### Implement end-to-end tests for FOSSology APIs:
+   To ensure high quality software, there is still a work to do. I look forward to finalizing additional end-to-end tests development for FOSSology APIs to verify that all functionalities are working as expected and meeting the requirements.
+In the pipeline are several exciting improvements to look forward to:
+
+- #### Guiding new contributors to FOSSology:
+   I look forward to providing a full guidance new contributors for not only contributing to FOSSology Excellence in license compliance but also broadening the open-source family.
+- #### Provide more contributions:
+   As I started the open-source journey, I won't step back.I will keep my dedication , determination and love to open-source. I will keep contributing to FOSSology, guiding and mentoring new contributors as well.
+
+## Major Takeaways: 📚
+
+- Developed Proficiency in Remote culture.
+- Growth in writing clean code, commit messages and opening clear pull requests.
+- I learned clear definition of teamwork and collaboration to achieve a common goal.
+- Gained Hands-On experience in open-source Contribution.
+- Improved my research and exploration skills on new things.
+- Enhanced my communication and leadership skills from my mentors.
+- Gained skills on reading and understanding large codebases.
+- Cleared fear and developed confidence in contributing to large codebases.
+
+<h1 align = "center" id = "acknowledgements">🎓 Acknowledgements</h1>
+
+<p align="justify">
+Being a part of FOSSology was rewarding experience and journey of growth in my crucial aspects of life. The journey was really exciting more than I expected before. As my first step endeavor into open-source, I learned the ropes and gained invaluable skills including communication, teamwork, writing clean code and other technical skills that are very crucial in my future ventures. I deeply extend heartfelt gratitude  for the whole FOSSology team especially my mentors for the kindness and invaluable support they gave me throughtout this journey. 
+<br />
+Special thanks to <a href="https://github.com/shaheemazmalmmd" target="_blank">Shaheem Azmal M MD</a>, <a href="https://github.com/GMishx" target="_blank">Gaurav Mishra</a>,  <a href="https://github.com/dushimsam" target="_blank">Samuel Dushimimana</a>, and <a href="https://github.com/soham4abc" target="_blank">Soham Banerjee</a> as my mentors. I really appreciate how humble and polite these people are, their full guidance and support has truly shaped me and made me who I am today.
+    <br/>
+    <br/>
+    In conclusion, It has been an exciting journey working with this wonderful community, and I've gained so much from the experience. As we move forward, there is always room for improvement in every line of code, keep pushing code!
+</p>
+
+<h1 align = "center" id = "connections">🌐 Let's connect! </h1>
 
   
 
@@ -92,7 +126,3 @@ Throughout the 12 weeks of the GSoC period, I created weekly documentation for r
 - [GitHub](https://github.com/valens200)
 
 - [Twitter](https://x.com/200Valens)
-
-## Thoughts
-
-As we move forward in the real world, there's always room for improvement in every line of code. I want to extend my sincere thanks to my mentor, the organization admins, and the community members for their continuous support and assistance throughout this project. It has been an exciting journey working with this wonderful community, and I’ve gained so much from the experience. I would also like to thank Google for providing this incredible opportunity. Keep pushing code!
