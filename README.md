@@ -60,9 +60,37 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
   ### 1.Controllers.
   - MaintenanceControllerTest and UploadTreeControllerTest [#2764](https://github.com/fossology/fossology/pull/2764)
   <br />
-  MaintenanceControllerTest
+  'MaintenanceControllerTest'
 
-  ![image](./assets/maintenance.png)
+  ![image](./assets/maintenance.png) 
+
+  'UploadTreeControllerTest'
+
+  ![image](./assets/upload_tree.png)
+
+    - 'LicenseControllerTest', GroupControllerTest, 'UploadControllerTest', 'OverViewControllerTest' and 'FolderControllerTest' [#2827](https://github.com/fossology/fossology/pull/2827)
+  <br />
+   'OverViewControllerTest'
+
+  ![image](./assets/overview.png) 
+
+  'LicenseControllerTest'
+
+  ![image](./assets/license.png) 
+
+  'UploadControllerTest'
+
+  ![image](./assets/upload_controller.png)
+
+  'FolderControllerTest'
+
+  ![image](./assets/folder_controller.png)
+
+    'GroupControllerTest'
+
+  ![image](./assets/group.png)
+  
+
 
 
 #### Models test cases.
