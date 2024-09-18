@@ -70,7 +70,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
 ## Documentation:📄
 
-Throughout the 12 weeks of the GSoC period, I dedicated time to create weekly documentation to track and record updates. The weekly documentation of updates can be accessed [**here**](https://fossology.github.io/gsoc/docs/2023/rest/updates/samuel/2023-06-01)
+Throughout the 12 weeks of the GSoC period, I created weekly documentation for recording and tracking my progress. The documentation can be found [**here**](https://fossology.github.io/gsoc/docs/2024/rest/updates/valens/2024-05-30)
 
 
 <h1 align="center">👨🏻‍🏫 DELIVERABLES <img src="https://api.ezeelo.com/Scripts/QRCode/Done.gif" width="40"></h1>
