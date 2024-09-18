@@ -43,26 +43,26 @@ In this article am going to outline the details of my contributions as a referen
 
   
 
-During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of education by improving and adding new unit test cases for unit and integration tests. I managed to test both APIs and models.
+During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration tests cases.Through this, I verified and tested all functionalities making sure there are work as expected and meet the requirements. After finishing  unit tests cases development for APIs and models, I improved and wrote new integration tests for Data Access Objects (DAOs).
 
-1.  #### Unit tests development:
-
-
+1.  #### Unit tests development
+ 
+- I developed new unit test cases for all controllers and models contributing to the quality improvement of the software, verifying that API units and models are working as expected.
+2.  #### Api test cases upgrade to version 2
+- Since my collegue [Divij](https://github.com/dvjsharma) was upgrading REST APIs to version 2, the same to my side, I dedicate my time to upgrade all test cases to version 2.
 
 3.  #### Integration tests development
+- Finally, After improving and enhancing some integration tests that were available in Data Access Objects (DAOs), I developed new integration test cases verifying that all DAOs components and database are properly working together to meet the requirements as expected.
 
-
-
-4.  #### Api test cases upgrade to version 2
-
-5.  #### End-to-end tests development
-
-  
-  
 
 ## Unit test cases development:
 
-  ### APIs test cases.
+  ### 1.Controllers.
+  - MaintenanceControllerTest and UploadTreeControllerTest [#2764](https://github.com/fossology/fossology/pull/2764)
+  <br />
+  MaintenanceControllerTest
+
+  ![image](https://github.com/user-attachments/assets/e0ee0d11-63d4-4cd3-948b-d47d09856c29)
 
 
 #### Models test cases.
