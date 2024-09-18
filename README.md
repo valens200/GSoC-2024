@@ -77,7 +77,7 @@ Throughout the 12 weeks of the GSoC period, I created weekly documentation for r
 
 | Tasks   | Planned | Completed     | Remarks    |
 | :---:       |    :----:   |    :---:      |    :---:      |
-| Upgrade and Improve all REST API un | Yes | :heavy_check_mark: | 
+| Upgrade and Improve all REST API unit tests | Yes | :heavy_check_mark: | 
 | I have improved and added new unit tests for APIs | Yes       | :heavy_check_mark: |  |
 | Enhanced and added new unit tests for models| Yes        | :heavy_check_mark:  |  |
 | Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark: | There's still a work ahead to ensure that all the DAOs follow integration testing standards and also making sure that the test coverage for each is at least 75%. |
