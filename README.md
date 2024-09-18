@@ -81,7 +81,7 @@ Throughout the 12 weeks of the GSoC period, I created weekly documentation for r
 | I have improved and added new unit tests for APIs | Yes       | :heavy_check_mark: |  |
 | Enhanced and added new unit tests for models| Yes        | :heavy_check_mark:  |  |
 | Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark: | There's still a work ahead to ensure that all the DAOs follow integration testing standards and also making sure that the test coverage for each is at least 75%. |
-| Adding end-to-end tests for APIs | NO (WAS OPTIONAL) | :x: | This is an ongoing work current and even additional APIs that will be added in the future.
+| Adding end-to-end tests for APIs | NO (WAS OPTIONAL) | :x: | This is an ongoing work for current and  additional APIs that will be added in the future.
 
 ## Future ventures:🚀
 In the pipeline are several exciting improvements to look forward to:
