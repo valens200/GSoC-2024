@@ -31,11 +31,10 @@ About me
 
   
 
-Hello, I'm **Valens NIYONSENGA**, a proud Software Engineering and Embedded Systems graduate at [**Rwanda Coding Academy**](http://rca.ac.rw/). With over 4 years of hands-on experience in building full stack applications, I'm thrilled to be an active member of the FOSSology community for Google Summer of Code 2024.
+Hello, I'm **Valens NIYONSENGA**, a proud Software Engineering, Cybersecurity and Embedded Systems graduate at [**Rwanda Coding Academy**](http://rca.ac.rw/). With over 4 years of proven experience in building and architecting fullstack applications, I'm thrilled to be an active member of the FOSSology community for Google Summer of Code 2024.
 
   
-
-In this article am going to outline the details of my contributions as a reference of project completion during the 12 weeks of coding.
+In this article holds detailed report of my contributions as a reference of my project completion during the 12 weeks of coding at FOSSology in 2024 Google Summer of Code (GSoC).
 
   
 
@@ -43,7 +42,7 @@ In this article am going to outline the details of my contributions as a referen
 
   
 
-During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration tests cases.Through this, I verified and tested all functionalities making sure there are work as expected and meet the requirements. After finishing  unit tests cases development for APIs and models, I improved and wrote new integration tests for Data Access Objects (DAOs).
+During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration tests cases.Through this, I tested all functionalities to verify whether they work as expected and meet the requirements. After finishing unit tests cases development for APIs and models, I improved and wrote new integration tests for Data Access Objects (DAOs).
 
 1.  #### Unit tests development
  
@@ -95,7 +94,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
   ![image](./assets/group.png)
 
 #### Models test cases.
-Models tests are numerous but I would like to show the screenshoots for some of them.
+Models tests are numerous but I would like to show some screenshoots.
  - 'AnaysisTest', 'BulkHistroryTest', 'ScanCodeTest', 'FolderTest' and so on.. [#2825](https://github.com/fossology/fossology/pull/2825)
   <br />
   'AnaysisTest'
@@ -164,11 +163,10 @@ Throughout the 12 weeks of the GSoC period, I created weekly documentation for r
 | Upgrade and Improve all REST API unit tests | Yes | :heavy_check_mark: | 
 | I have improved and added new unit tests for APIs | Yes       | :heavy_check_mark: |  |
 | Enhanced and added new unit tests for models| Yes        | :heavy_check_mark:  |  |
-| Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark: | There's still a work ahead to ensure that all the DAOs follow integration testing standards and also making sure that the test coverage for each is at least 75%. |
-| Adding end-to-end tests for APIs | NO (WAS OPTIONAL) | :x: | This is an ongoing work for current and  additional APIs that will be added in the future.
+| Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark:(partially) | There's still a work ahead to ensure that all the DAOs follow integration testing standards and also making sure that the test coverage for each is at least 75%. |
+| Adding end-to-end tests for APIs | NO  | :x: | I am going to finalize this in coming weeks after GSoC.
 
 ## Future ventures:🚀
-In the pipeline are several exciting improvements to look forward to:
 
 - #### Implement end-to-end tests for FOSSology APIs:
    To ensure high quality software, there is still a work to do. I look forward to finalizing additional end-to-end tests development for FOSSology APIs to verify that all functionalities are working as expected and meeting the requirements.
