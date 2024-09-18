@@ -45,15 +45,17 @@ In this article am going to outline the details of my contributions as a referen
 
 During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of education by improving and adding new unit test cases for unit and integration tests. I managed to test both APIs and models.
 
-1.  #### Unit tests enhancement:
+1.  #### Unit tests development:
 
 
 
-3.  #### Integration tests enhancement:
+3.  #### Integration tests development
 
 
 
-4.  #### REST APIs upgrade to version 2:
+4.  #### Api test cases upgrade to version 2
+
+5.  #### End-to-end tests development
 
   
   
@@ -65,10 +67,21 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
 #### Models test cases.
 ## Integration test cases development.
-1. Auth Controller.
-## End-to-end test cases development.
 
-1. Auth Controller.
+## Documentation:📄
+
+Throughout the 12 weeks of the GSoC period, I dedicated time to create weekly documentation to track and record updates. The weekly documentation of updates can be accessed [**here**](https://fossology.github.io/gsoc/docs/2023/rest/updates/samuel/2023-06-01)
+
+
+<h1 align="center">👨🏻‍🏫 DELIVERABLES <img src="https://api.ezeelo.com/Scripts/QRCode/Done.gif" width="40"></h1>
+
+| Tasks   | Planned | Completed     | Remarks    |
+| :---:       |    :----:   |    :---:      |    :---:      |
+| Upgrade and Improve all REST API un | Yes | :heavy_check_mark: | 
+| I have improved and added new unit tests for APIs | Yes       | :heavy_check_mark: |  |
+| Enhanced and added new unit tests for models| Yes        | :heavy_check_mark:  |  |
+| Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark: | There's still a work ahead to ensure that all the DAOs follow integration testing standards as well making sure that the test coverage for each is at least 75%. |
+| Adding end-to-end tests for APIs | NO (WAS OPTIONAL) | :x: | This is an ongoing work current and even additional APIs that will be added in the future.
 
 # Let's get connected!
 
