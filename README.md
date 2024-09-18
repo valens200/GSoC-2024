@@ -62,7 +62,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
   <br />
   MaintenanceControllerTest
 
-  ![image](https://github.com/user-attachments/assets/e0ee0d11-63d4-4cd3-948b-d47d09856c29)
+  ![image](./assets/maintenance.png)
 
 
 #### Models test cases.
