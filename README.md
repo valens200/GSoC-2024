@@ -215,7 +215,7 @@ Models tests are numerous but I would like to show some screenshoots.
   ![image](./assets/daos/showjobs1.png) 
   ![image](./assets/daos/showjobs2.png) 
 
- ### All contribution
+ ### Link to contributions
 
  1. [https://github.com/fossology/fossology/pull/2764](https://github.com/fossology/fossology/pull/2764)
  2. [https://github.com/fossology/fossology/pull/2834](https://github.com/fossology/fossology/pull/2834).
