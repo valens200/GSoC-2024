@@ -62,12 +62,14 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
    <br />
   - Added `MaintenanceControllerTest`, and `UploadTreeControllerTest`. [#2764](https://github.com/fossology/fossology/pull/2764)
   <br />
-  `MaintenanceControllerTest`
+
+    `MaintenanceControllerTest`
+
    I added more than 5 test cases to ensure that maintenance functionalities work as expected.
 
   ![image](./assets/maintenance.png) 
 
-  `UploadTreeControllerTest`
+    `UploadTreeControllerTest`
 
       - Improved up to 30 test cases, checking whether they work propery and meet the expected needs.
       - Added 16 more test cases, making sure that all APIs in UploadTreeControllerTest are covered.
@@ -77,7 +79,8 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
     - `LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `FolderControllerTest` [#2827](https://github.com/fossology/fossology/pull/2827) and [#2834]https://github.com/fossology/fossology/pull/2834
   <br />
-  `LicenseControllerTest`
+
+    `LicenseControllerTest`
 
       - Improved up to 19 test cases in LicenseControllerTest, checking whether they work propery and meet the expected needs.
       - Added more than 31 new test cases, making sure that all APIs in LicenseController are covered.
@@ -85,7 +88,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/license.png) 
 
-  `UploadControllerTest`
+    `UploadControllerTest`
 
       - Improved up to 30 test cases, checking whether they work propery and meet the expected needs.
       - Added more than 16 new test cases, making sure that all APIs in UploadController are covered.
@@ -93,7 +96,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/upload_controller.png)
 
-  `FolderControllerTest`
+    `FolderControllerTest`
 
       - Improved up to 20 test cases, checking whether they work propery and meet the expected needs.
       - Added up to 10 new test cases, making sure that all APIs in FolderController are covered.
@@ -120,6 +123,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 Models tests are numerous but I would like to show some screenshoots.
  - `AnaysisTest`, `BulkHistroryTest`, `ScanCodeTest`, `FolderTest` and so on.. [#2825](https://github.com/fossology/fossology/pull/2825)
   <br />
+
   `AnaysisTest`
 
       - Improved up to 5 existing test cases, checking whether member variables and methods in Analysis model work as expected and meet the requirements.
@@ -188,14 +192,14 @@ Models tests are numerous but I would like to show some screenshoots.
    - `PfileDAOTest`, `ShowJobsDAOTest`,`UploadPermissionsDAOTest`, `UploadDATest` and so on.. [#2832](https://github.com/fossology/fossology/pull/2832)
   <br />
 
-   `UploadPermissionsDAOTest`
+    `UploadPermissionsDAOTest`
 
       - I enhanced and added new test cases, making sure that all member variables and methods in UploadPermissionsDAO model are covered.
       - Checked and verified that the integration between Database, UploadPermissionsDAO and other components work as expected and meets the requirements.
 
   ![image](./assets/daos/upload_permissions.png) 
 
-  `PfileDAOTest`
+    `PfileDAOTest`
 
       - I enhanced and added new test cases, making sure that all member variables and methods in PfileDAO model are covered.
       - Checked and verified that the integration between Database, PfileDAO and other components work as expected and meets the requirements.
@@ -203,7 +207,7 @@ Models tests are numerous but I would like to show some screenshoots.
   ![image](./assets/daos/pfile1.png) 
    ![image](./assets/daos/pfile2.png) 
 
-  `ShowJobsDAOTest`
+    `ShowJobsDAOTest`
 
       - I enhanced and added new test cases, making sure that all member variables and methods in ShowJobsDAO model are covered.
       - Checked and verified that the integration between Database, ShowJobsDAO and other components work as expected and meets the requirements.
