@@ -42,7 +42,7 @@ In this article holds detailed report of my contributions as a reference of my p
 
   
 
-During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration test cases.Through this, I tested all functionalities to verify whether they work as expected and meet the requirements. After finishing unit test cases development for APIs and models, I improved and wrote new integration tests for Data Access Objects (DAOs).
+During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration test cases.Through this, I tested all functionalities to verify whether they work as expected and meet the requirements. After finishing unit test cases development for APIs and models, I tackeled integration tests for Data Access Objects (DAOs).
 
 1.  #### Unit tests development
  
