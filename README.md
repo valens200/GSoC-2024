@@ -122,17 +122,31 @@ Models tests are numerous but I would like to show some screenshoots.
   <br />
   `AnaysisTest`
 
+      - Improved up to 5 existing test cases, checking whether member variables and methods in Analysis model work as expected and meet the requirements.
+      - Added up to 11 new test cases, making sure that all member variables and methods in Analysis model are covered.
+      - Checked and verified that the Analysis model works as expected and meets the requirements.
+
   ![image](./assets/models/analysis.png) 
 
-  `ScanCodeTest`
+  `ScanCodeTest`  
+
+      - Created the test and introduced up to 5 new tests, making sure that all member variables and methods in ScanCode model are covered.
+      - Checked and verified that the ScanCode model works as expected and meets the requirements.
 
   ![image](./assets/models/scancode.png)
 
   `BulkHistroryTest`
 
+      - Created the test and introduced up to 8 new tests, making sure that all member variables and methods in BulkHistrory model are covered.
+      - Checked and verified that the BulkHistrory model works as expected and meets the requirements.
+
   ![image](./assets/models/history.png) 
 
   `FolderTest`
+
+      - Improved 1 test case that was existing.
+      - Added up to 5 new test cases, making sure that all member variables and methods in Folder model are covered.
+      - Checked and verified that the Folder model works as expected and meets the requirements.
 
   ![image](./assets/models/folders.png)
 
@@ -140,13 +154,23 @@ Models tests are numerous but I would like to show some screenshoots.
   <br />
   `LicenseCandidateTest`
 
-  ![image](./assets/models/agent.png) 
+      - Created the test model and introduced up to 13 new tests, making sure that all member variables and methods in LicenseCandidate model are covered.
+      - Checked and verified that the LicenseCandidate model works as expected and meets the requirements.
+
+  ![image](./assets/models/lisence_candidate.png) 
 
   `AgentTest`
 
-  ![image](./assets/models/lisence_candidate.png)
+      - Created the test model and introduced up to 13 new tests, making sure that all member variables and methods in Agent model are covered.
+      - Checked and verified that the Agent model works as expected and meets the requirements.
+
+  ![image](./assets/models/agent.png)
 
   `DeciderTest`
+
+      - I enhanced up to 4 tests that were existing.
+      - I added up to 2 new tests, making sure that all member variables and methods in Decider model are covered.
+      - Checked and verified that the Decider model works as expected and meets the requirements.
 
   ![image](./assets/models/decider.png) 
 
@@ -155,6 +179,10 @@ Models tests are numerous but I would like to show some screenshoots.
   <br />
   `FolderDAOTest`
 
+      - I enhanced up to 16 tests that were existing.
+      - I added up to 13 new tests, making sure that all member variables and methods in FolderDao model are covered.
+      - Checked and verified that the integration between Database, FolderDao and other components work as expected and meets the requirements.
+
   ![image](./assets/daos/folder.png) 
 
    - `PfileDAOTest`, `ShowJobsDAOTest`,`UploadPermissionsDAOTest`, `UploadDATest` and so on.. [#2832](https://github.com/fossology/fossology/pull/2832)
@@ -162,14 +190,23 @@ Models tests are numerous but I would like to show some screenshoots.
 
    `UploadPermissionsDAOTest`
 
+      - I enhanced and added new test cases, making sure that all member variables and methods in UploadPermissionsDAO model are covered.
+      - Checked and verified that the integration between Database, UploadPermissionsDAO and other components work as expected and meets the requirements.
+
   ![image](./assets/daos/upload_permissions.png) 
 
   `PfileDAOTest`
+
+      - I enhanced and added new test cases, making sure that all member variables and methods in PfileDAO model are covered.
+      - Checked and verified that the integration between Database, PfileDAO and other components work as expected and meets the requirements.
 
   ![image](./assets/daos/pfile1.png) 
    ![image](./assets/daos/pfile2.png) 
 
   `ShowJobsDAOTest`
+
+      - I enhanced and added new test cases, making sure that all member variables and methods in ShowJobsDAO model are covered.
+      - Checked and verified that the integration between Database, ShowJobsDAO and other components work as expected and meets the requirements.
 
   ![image](./assets/daos/showjobs1.png) 
   ![image](./assets/daos/showjobs2.png) 
