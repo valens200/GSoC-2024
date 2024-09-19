@@ -215,18 +215,6 @@ Models tests are numerous but I would like to show some screenshoots.
   ![image](./assets/daos/showjobs1.png) 
   ![image](./assets/daos/showjobs2.png) 
 
- ### Link to contributions
-
- 1. [https://github.com/fossology/fossology/pull/2764](https://github.com/fossology/fossology/pull/2764)
- 2. [https://github.com/fossology/fossology/pull/2834](https://github.com/fossology/fossology/pull/2834).
- 3. [https://github.com/fossology/fossology/pull/2832](https://github.com/fossology/fossology/pull/2832)
- 4. [https://github.com/fossology/fossology/pull/2830](https://github.com/fossology/fossology/pull/2830)
- 5. [https://github.com/fossology/fossology/pull/2829](https://github.com/fossology/fossology/pull/2829)
- 6. [https://github.com/fossology/fossology/pull/2827](https://github.com/fossology/fossology/pull/2827)
- 7. [https://github.com/fossology/fossology/pull/2826](https://github.com/fossology/fossology/pull/2826)
- 8. [https://github.com/fossology/fossology/pull/2825](https://github.com/fossology/fossology/pull/2825)
-
-
 ## Documentation:📄
 
 Throughout the 12 weeks of the GSoC period, I created weekly documentation for recording and tracking my progress. The documentation can be found [**here**](https://fossology.github.io/gsoc/docs/2024/rest/updates/valens/2024-05-30)
@@ -263,6 +251,19 @@ In the pipeline are several exciting improvements to look forward to:
 - Enhanced my communication and leadership skills from my mentors.
 - Gained skills on reading and understanding large codebases.
 - Cleared fear and developed confidence in contributing to large codebases.
+
+## Links of work done: 🎯
+
+### Pull Requests 🔗
+
+ 1. [https://github.com/fossology/fossology/pull/2764](https://github.com/fossology/fossology/pull/2764)
+ 2. [https://github.com/fossology/fossology/pull/2834](https://github.com/fossology/fossology/pull/2834).
+ 3. [https://github.com/fossology/fossology/pull/2832](https://github.com/fossology/fossology/pull/2832)
+ 4. [https://github.com/fossology/fossology/pull/2830](https://github.com/fossology/fossology/pull/2830)
+ 5. [https://github.com/fossology/fossology/pull/2829](https://github.com/fossology/fossology/pull/2829)
+ 6. [https://github.com/fossology/fossology/pull/2827](https://github.com/fossology/fossology/pull/2827)
+ 7. [https://github.com/fossology/fossology/pull/2826](https://github.com/fossology/fossology/pull/2826)
+ 8. [https://github.com/fossology/fossology/pull/2825](https://github.com/fossology/fossology/pull/2825)
 
 <h1 align = "center" id = "acknowledgements">🎓 Acknowledgements</h1>
 
