@@ -67,16 +67,8 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/upload_tree.png)
 
-    - 'LicenseControllerTest', GroupControllerTest, 'CopyrightsControllerTest','UploadControllerTest', 'OverViewControllerTest' and 'FolderControllerTest' [#2827](https://github.com/fossology/fossology/pull/2827)
+    - 'LicenseControllerTest', GroupControllerTest, 'CopyrightsControllerTest','UploadControllerTest', 'OverViewControllerTest' and 'FolderControllerTest' [#2827](https://github.com/fossology/fossology/pull/2827) and [#2834]https://github.com/fossology/fossology/pull/2834
   <br />
-   'CopyrightsControllerTest'
-
-  ![image](./assets/Copyright.png) 
-
-   'OverViewControllerTest'
-
-  ![image](./assets/overview.png) 
-
   'LicenseControllerTest'
 
   ![image](./assets/license.png) 
@@ -92,6 +84,14 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
     'GroupControllerTest'
 
   ![image](./assets/group.png)
+
+   'CopyrightsControllerTest'
+
+  ![image](./assets/Copyright.png) 
+
+   'OverViewControllerTest'
+
+  ![image](./assets/overview.png) 
 
 #### Models test cases.
 Models tests are numerous but I would like to show some screenshoots.
