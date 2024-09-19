@@ -60,7 +60,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
   - Upgraded different tests including `MaintenanceControllerTest`,`LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `UserContollerTest` to support version 2 specification [#2826](https://github.com/fossology/fossology/pull/2826)
    <br />
    <br />
-  - `MaintenanceControllerTest` and `UploadTreeControllerTest` [#2764](https://github.com/fossology/fossology/pull/2764)
+  - Added `MaintenanceControllerTest`, and `UploadTreeControllerTest`. [#2764](https://github.com/fossology/fossology/pull/2764)
   <br />
   `MaintenanceControllerTest`
    I added more than 5 test cases to ensure that maintenance functionalities work as expected.
