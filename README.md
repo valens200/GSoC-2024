@@ -57,96 +57,119 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 ## Unit test cases development:
 
   ### 1.Controllers.
-  - MaintenanceControllerTest and UploadTreeControllerTest [#2764](https://github.com/fossology/fossology/pull/2764)
+  - Upgraded different tests including `MaintenanceControllerTest`,`LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `UserContollerTest` to support version 2 specification [#2826](https://github.com/fossology/fossology/pull/2826)
+   <br />
+   <br />
+  - `MaintenanceControllerTest` and `UploadTreeControllerTest` [#2764](https://github.com/fossology/fossology/pull/2764)
   <br />
-  'MaintenanceControllerTest'
+  `MaintenanceControllerTest`
+   I added more than 5 test cases to ensure that maintenance functionalities work as expected.
 
   ![image](./assets/maintenance.png) 
 
-  'UploadTreeControllerTest'
+  `UploadTreeControllerTest`
+
+      - Improved up to 30 test cases, checking whether they work propery and meet the expected needs.
+      - Added 16 more test cases, making sure that all APIs in UploadTreeControllerTest are covered.
+      - Checked and verified that the UploadTree API works as expected and meets the requirements.
 
   ![image](./assets/upload_tree.png)
 
-    - 'LicenseControllerTest', GroupControllerTest, 'CopyrightsControllerTest','UploadControllerTest', 'OverViewControllerTest' and 'FolderControllerTest' [#2827](https://github.com/fossology/fossology/pull/2827) and [#2834]https://github.com/fossology/fossology/pull/2834
+    - `LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `FolderControllerTest` [#2827](https://github.com/fossology/fossology/pull/2827) and [#2834]https://github.com/fossology/fossology/pull/2834
   <br />
-  'LicenseControllerTest'
+  `LicenseControllerTest`
+
+      - Improved up to 19 test cases in LicenseControllerTest, checking whether they work propery and meet the expected needs.
+      - Added more than 31 new test cases, making sure that all APIs in LicenseController are covered.
+      - Checked and verified that the Upload API works as expected and meets the requirements.
 
   ![image](./assets/license.png) 
 
-  'UploadControllerTest'
+  `UploadControllerTest`
+
+      - Improved up to 30 test cases, checking whether they work propery and meet the expected needs.
+      - Added more than 16 new test cases, making sure that all APIs in UploadController are covered.
+      - Checked and verified that the Upload API works as expected and meets the requirements.
 
   ![image](./assets/upload_controller.png)
 
-  'FolderControllerTest'
+  `FolderControllerTest`
+
+      - Improved up to 20 test cases, checking whether they work propery and meet the expected needs.
+      - Added up to 10 new test cases, making sure that all APIs in FolderController are covered.
+      - Checked and verified that the Folder API works as expected and meets the requirements.
 
   ![image](./assets/folder_controller.png)
 
-    'GroupControllerTest'
+    `GroupControllerTest`
+
+      - Improved up to 8 existing test cases, checking whether they work propery and meet the expected needs.
+      - Added up to 17 new test cases, making sure that all APIs in GroupController are covered.
+      - Checked and verified that the Group API works as expected and meets the requirements.
 
   ![image](./assets/group.png)
 
-   'CopyrightsControllerTest'
+   `CopyrightsControllerTest`
+
+      - Initiated the test and added up to 20 new test cases, making sure that all APIs in CopyrightsController are covered.
+      - Checked and verified that the Copyrights API works as expected and meets the requirements.
 
   ![image](./assets/Copyright.png) 
 
-   'OverViewControllerTest'
-
-  ![image](./assets/overview.png) 
-
 #### Models test cases.
 Models tests are numerous but I would like to show some screenshoots.
- - 'AnaysisTest', 'BulkHistroryTest', 'ScanCodeTest', 'FolderTest' and so on.. [#2825](https://github.com/fossology/fossology/pull/2825)
+ - `AnaysisTest`, `BulkHistroryTest`, `ScanCodeTest`, `FolderTest` and so on.. [#2825](https://github.com/fossology/fossology/pull/2825)
   <br />
-  'AnaysisTest'
+  `AnaysisTest`
 
   ![image](./assets/models/analysis.png) 
 
-  'ScanCodeTest'
+  `ScanCodeTest`
 
   ![image](./assets/models/scancode.png)
 
-  'BulkHistroryTest'
+  `BulkHistroryTest`
 
   ![image](./assets/models/history.png) 
 
-  'FolderTest'
+  `FolderTest`
 
   ![image](./assets/models/folders.png)
 
-   - 'LicenseCandidateTest', 'AgentTest', 'DeciderTest',and so on.. [#2829](https://github.com/fossology/fossology/pull/2829)
+   - `LicenseCandidateTest`, `AgentTest`, `DeciderTest`,and so on.. [#2829](https://github.com/fossology/fossology/pull/2829)
   <br />
-  'LicenseCandidateTest'
+  `LicenseCandidateTest`
 
   ![image](./assets/models/agent.png) 
 
-  'AgentTest'
+  `AgentTest`
 
   ![image](./assets/models/lisence_candidate.png)
 
-  'DeciderTest'
+  `DeciderTest`
 
   ![image](./assets/models/decider.png) 
 
 ## Integration test cases development.
-   - 'FolderDAOTest'[#2830](https://github.com/fossology/fossology/pull/2830)
+   - `FolderDAOTest` [#2830](https://github.com/fossology/fossology/pull/2830)
   <br />
-  'FolderDAOTest'
+  `FolderDAOTest`
 
   ![image](./assets/daos/folder.png) 
 
-   - 'PfileDAOTest', 'ShowJobsDAOTest',UploadPermissionsDAOTest', 'UploadDATest' and so on.. [#2832](https://github.com/fossology/fossology/pull/2832)
+   - `PfileDAOTest`, `ShowJobsDAOTest`,`UploadPermissionsDAOTest`, `UploadDATest` and so on.. [#2832](https://github.com/fossology/fossology/pull/2832)
   <br />
 
-   'UploadPermissionsDAOTest'
+   `UploadPermissionsDAOTest`
 
   ![image](./assets/daos/upload_permissions.png) 
 
-  'PfileDAOTest'
+  `PfileDAOTest`
 
   ![image](./assets/daos/pfile1.png) 
    ![image](./assets/daos/pfile2.png) 
 
-   'ShowJobsDAOTest'
+  `ShowJobsDAOTest`
 
   ![image](./assets/daos/showjobs1.png) 
   ![image](./assets/daos/showjobs2.png) 
