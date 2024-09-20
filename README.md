@@ -33,7 +33,7 @@ About me
 
 Hello, I'm **Valens NIYONSENGA**, a proud Software Engineering, Cybersecurity and Embedded Systems graduate at [**Rwanda Coding Academy**](http://rca.ac.rw/). With over 3 years of experience in building and architecting fullstack applications, I'm thrilled to be an active member of the FOSSology community for Google Summer of Code 2024.
 
-  
+
 In this article holds detailed report of my contributions as a reference of my project completion during the 12 weeks of coding at FOSSology in 2024 Google Summer of Code (GSoC).
 
   
@@ -42,7 +42,7 @@ In this article holds detailed report of my contributions as a reference of my p
 
   
 
-During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration tests cases.Through this, I tested all functionalities to verify whether they work as expected and meet the requirements. After finishing unit tests cases development for APIs and models, I improved and wrote new integration tests for Data Access Objects (DAOs).
+During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration test cases.Through this, I tested all functionalities to verify whether they work as expected and meet the requirements. After finishing unit test cases development for APIs and models, I tackeled integration tests for Data Access Objects (DAOs).
 
 1.  #### Unit tests development
  
