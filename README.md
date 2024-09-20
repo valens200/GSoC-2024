@@ -2,7 +2,7 @@
 
 
 
-<h1  align="center">Google Summer of Code 2024 <img  src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=ecf05e47s80k4ssg3a6cqwqs6j8hxyctvqtlw7oywfnoajuo&ep=v1_gifs_search&rid=giphy.webp&ct=g"  width="50"></h1>
+<h1  align="center">Google Summer of Code 2024 <img  src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=ecf05e47s80k4ssg3a6cqwqs6j8hxyctvqtlw7oywfnoajuo&ep=v1_gifs_search&rid=giphy.webp&ct=g"  width="30"></h1>
 
   
 
@@ -14,34 +14,83 @@
 
 <p  align="center">
 
-<img  src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=ecf05e47s80k4ssg3a6cqwqs6j8hxyctvqtlw7oywfnoajuo&ep=v1_gifs_search&rid=giphy.webp&ct=g"  width="100">
+<img  src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=ecf05e47s80k4ssg3a6cqwqs6j8hxyctvqtlw7oywfnoajuo&ep=v1_gifs_search&rid=giphy.webp&ct=g"  width="20">
 
 </p>
 
   
 
-![image](https://user-images.githubusercontent.com/66276301/188962690-5869b53c-99bb-4012-b13f-443832568f7e.png)
+<div align = "center">
+    <img src="https://github.com/user-attachments/assets/94976eda-9d37-4bbe-862a-154984209d8a"/>
+</div>
 
   
 
-## Google Summer of Code 2024 🚩 Report: "REST API Improvements" 
+<h3 align="center"><a href="#project-details">Table of contents</a></h3>
+
+
+<p align="center">
+	<a href="#project-details">Project Details</a> | 
+	<a href="#contributions">Contributions</a> | 
+	<a href="#documentation">Documentation</a> | 
+	<a href="#deliverables">Deliverables</a> | 
+	<a href="#major-takeaways">Major Takeaways</a> |
+    <a href="#acknowledgements">Acknowledgements</a> |
+    <a href="#future-ventures">Future ventures</a>
+</p>
+<!-- /TOC -->
 
  
-About me 
+<!--**About me** -->
+
+
+
+<!--Hello, I'm **Valens NIYONSENGA**, a graduate in Software Engineering, Cybersecurity, and Embedded Systems from Rwanda Coding Academy. Over the past three years, I’ve had the opportunity to dive deep into building and designing full-stack applications. Being part of the FOSSology community through Google Summer of Code 2024 is something I’m really excited about.-->
+
+<!--This article is a detailed report of my contributions, documenting the progress I’ve made during my 12 weeks of coding with FOSSology as part of GSoC 2024.-->
+
+<h1 align = "center" id = "project-details">📝 Project Details</h1>
+
+
+## Overview
+
+<p align="justify">
+This project aims to address the need for improving and upgrading APIs on FOSSology to version 2 by identifying areas for enhancement, fixing issues, and ensuring that clients using V1 aren't affected. To solve this, There are three main objectives to focus on. First, enhancing existing APIs by adding missing features for comprehensive implementation. Second, upgrading REST APIs to version 2, fixing bugs, and adopting new design patterns for efficient functionality. Additionally, any new endpoints added will adhere to Version 2 standards. My plan includes quality assurance measures, such as unit and integration testing, to ensure all requirements are met satisfactorily. Overall, my goal is to improve the usability and effectiveness of FOSSology's APIs for a better user experience.
+</p>
+
+## Milestones and Tasks
+
+### Milestone 1: Enhance the existing unit test coverage for APIs
+
+- Enhance Unit Tests for `/folder`, `/group`, `/license`, `/upload` endpoints.
+- Enhance Unit Tests for `/maintenance`, `/upload_tree`, `/info` endpoints.
+
+### Milestone 2: Complete upgradation & improvement of all endpoints' tests to veersion 2.
+
+- Upgrade & Improve `/folder`, `/group`, `/info`,`overview`,`job`,`copyright` tests.
+- Upgrade & Improve `/license`, `/maintenance`, `/upload`, `/user` tests.
+
+### Milestone 3: Complete addition of new Unit tests for all endpoints
+
+- Add Unit Tests for `/upload`, `/folder`, `/group`, `/license` endpints.
+- Add Unit Tests for `/maintenance`, `/copyright`, `/overview`, `/report`,`/job` endpoints.
+
+### Milestone 4: Complete addition of  Unit tests for all models
+
+- Add Unit Tests for `upload`, `folder`, `group`, `scanCode`,`GroupPermissions`, and `UploadSummary` models.
+- Add Unit Tests for `UserGroupMember`, `Job`, `BulkHistory`, `Analysis`, and `ApiVersion` models.
+- Add Unit Tests for `agent`, `decider`, `fileInfo`, `group`,`licenseCandidate`, and `permissions` models.
+
+### Milestone 5: Complete addition of  integration tests for Data Acess Objects (DAOs)
+
+- Add integration Tests for `folder`, `agent`, and `pfile` DAOs.
+- Add integration Tests for `license`, `upload`, `uploadPermssions`, and `showJobs` models.
+<br />
+</br />
+
+<h1 align = "" id = "contributions">🌏 Contributions</h1>
 
   
-
-Hello, I'm **Valens NIYONSENGA**, a proud Software Engineering, Cybersecurity and Embedded Systems graduate at [**Rwanda Coding Academy**](http://rca.ac.rw/). With over 3 years of experience in building and architecting fullstack applications, I'm thrilled to be an active member of the FOSSology community for Google Summer of Code 2024.
-
-
-In this article holds detailed report of my contributions as a reference of my project completion during the 12 weeks of coding at FOSSology in 2024 Google Summer of Code (GSoC).
-
-  
-
-# 🌏 CONTRIBUTIONS Overview
-
-  
-
 During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration test cases.Through this, I tested all functionalities to verify whether they work as expected and meet the requirements. After finishing unit test cases development for APIs and models, I tackeled integration tests for Data Access Objects (DAOs).
 
 1.  #### Unit tests development
@@ -214,13 +263,15 @@ Models tests are numerous but I would like to show some screenshoots.
 
   ![image](./assets/daos/showjobs1.png) 
   ![image](./assets/daos/showjobs2.png) 
+  
+  
+<h1 align = "" id = "documentation">Documentation:📄</h1>
 
-## Documentation:📄
 
 Throughout the 12 weeks of the GSoC period, I created weekly documentation for recording and tracking my progress. The documentation can be found [**here**](https://fossology.github.io/gsoc/docs/2024/rest/updates/valens/2024-05-30)
 
 
-<h1 align="center">👨🏻‍🏫 DELIVERABLES <img src="https://api.ezeelo.com/Scripts/QRCode/Done.gif" width="40"></h1>
+<h1 align="center" id="deliverables">👨🏻‍🏫 DELIVERABLES <img src="https://api.ezeelo.com/Scripts/QRCode/Done.gif" width="40"></h1>
 
 | Tasks   | Planned | Completed     | Remarks    |
 | :---:       |    :----:   |    :---:      |    :---:      |
@@ -230,7 +281,8 @@ Throughout the 12 weeks of the GSoC period, I created weekly documentation for r
 | Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark:(partially) | There's still a work ahead to ensure that all the DAOs follow integration testing standards and also making sure that the test coverage for each is at least 75%. |
 | Adding end-to-end tests for APIs | NO  | :x: | I am going to finalize this in coming weeks after GSoC.
 
-## Future ventures:🚀
+<h1 align = "" id = "future-ventures">Future ventures🚀</h1>
+
 
 - #### Implement end-to-end tests for FOSSology APIs:
    To ensure high quality software, there is still a work to do. I look forward to finalizing additional end-to-end tests development for FOSSology APIs to verify that all functionalities are working as expected and meeting the requirements.
@@ -241,7 +293,9 @@ In the pipeline are several exciting improvements to look forward to:
 - #### Provide more contributions:
    As I started the open-source journey, I won't step back.I will keep my dedication , determination and love to open-source. I will keep contributing to FOSSology, guiding and mentoring new contributors as well.
 
-## Major Takeaways: 📚
+<h1 align = "" id = "major-takeaways">Major Takeaways 📚</h1>
+
+
 
 - Developed a deeper understanding of the open-source world and the collaborative nature of open-source projects.
 - Improved in writing `clean`, `maintainable code` and `creating clear`, clear commit messages and pull requests..
@@ -267,7 +321,7 @@ In the pipeline are several exciting improvements to look forward to:
  7. [https://github.com/fossology/fossology/pull/2826](https://github.com/fossology/fossology/pull/2826)
  8. [https://github.com/fossology/fossology/pull/2825](https://github.com/fossology/fossology/pull/2825)
 
-<h1 align = "center" id = "acknowledgements">🎓 Acknowledgements</h1>
+<h1  id = "acknowledgements">🎓 Acknowledgements</h1>
 
 <p align="justify">
 Being a part of FOSSology was a rewarding experience and journey of growth in my crucial aspects of life. The journey was really exciting more than I expected. As my first  endeavor into open-source, I learned the ropes and gained invaluable skills including communication, teamwork, writing clean code and other technical skills that are very crucial in my future ventures. I deeply extend heartfelt gratitude  for the whole FOSSology team especially my mentors for the kindness, patience and invaluable support they gave me throughtout this journey. 
