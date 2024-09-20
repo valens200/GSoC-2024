@@ -298,9 +298,10 @@ In the pipeline are several exciting improvements to look forward to:
 
 
 - Developed a deeper understanding of the open-source world and the collaborative nature of open-source projects.
-- Improved in writing `clean`, `maintainable code` and `creating clear`, clear commit messages and pull requests..
+- Gained open-source culture.
+- Improved in writing `clean` and `maintainable` code, plus `clear commit messages` and `pull requests`.
 - Improved `communication` and `leadership` abilities by learning from mentors’ guidance.
-- learned how to quickly adapt to the community’s coding standards.
+- Learned how to quickly adapt to the community’s coding standards.
 - I realized and learned the importance of communication and collaboration in open-source projects.
 - I learned how to break down a large project into smaller tasks, set timelines, and stay disciplined to meet deadlines. This experience improved my project management skills.
 - Gained the ability to research and explore unfamiliar technologies, tools, and concepts efficiently.
