@@ -31,7 +31,7 @@ About me
 
   
 
-Hello, I'm **Valens NIYONSENGA**, a proud Software Engineering, Cybersecurity and Embedded Systems graduate at [**Rwanda Coding Academy**](http://rca.ac.rw/). With over 4 years of proven experience in building and architecting fullstack applications, I'm thrilled to be an active member of the FOSSology community for Google Summer of Code 2024.
+Hello, I'm **Valens NIYONSENGA**, a proud Software Engineering, Cybersecurity and Embedded Systems graduate at [**Rwanda Coding Academy**](http://rca.ac.rw/). With over 3 years of experience in building and architecting fullstack applications, I'm thrilled to be an active member of the FOSSology community for Google Summer of Code 2024.
 
   
 In this article holds detailed report of my contributions as a reference of my project completion during the 12 weeks of coding at FOSSology in 2024 Google Summer of Code (GSoC).
@@ -243,14 +243,16 @@ In the pipeline are several exciting improvements to look forward to:
 
 ## Major Takeaways: 📚
 
-- Developed Proficiency in Remote culture.
-- Growth in writing clean code, commit messages and opening clear pull requests.
-- I learned clear definition of teamwork and collaboration to achieve a common goal.
-- Gained Hands-On experience in open-source Contribution.
-- Improved my research and exploration skills on new things.
-- Enhanced my communication and leadership skills from my mentors.
-- Gained skills on reading and understanding large codebases.
-- Cleared fear and developed confidence in contributing to large codebases.
+- Developed a deeper understanding of the open-source world and the collaborative nature of open-source projects.
+- Improved in writing `clean`, `maintainable code` and `creating clear`, clear commit messages and pull requests..
+- Improved `communication` and `leadership` abilities by learning from mentors’ guidance.
+- learned how to quickly adapt to the community’s coding standards.
+- I realized and learned the importance of communication and collaboration in open-source projects.
+- I learned how to break down a large project into smaller tasks, set timelines, and stay disciplined to meet deadlines. This experience improved my project management skills.
+- Gained the ability to research and explore unfamiliar technologies, tools, and concepts efficiently.
+- Developed the ability to navigate, understand, and contribute to large, complex codebases.
+- Contributing to an open-source project enhanced my sense of responsibility.
+- Created friendships and professional connections with people from other countries.
 
 ## Links of work done: 🎯
 
@@ -273,7 +275,7 @@ Being a part of FOSSology was a rewarding experience and journey of growth in my
 Special thanks to <a href="https://github.com/shaheemazmalmmd" target="_blank">Shaheem Azmal M MD</a>, <a href="https://github.com/GMishx" target="_blank">Gaurav Mishra</a>,  <a href="https://github.com/dushimsam" target="_blank">Samuel Dushimimana</a>, and <a href="https://github.com/soham4abc" target="_blank">Soham Banerjee</a> as my mentors. I really appreciate how humble and polite these people are, their full guidance and support has truly shaped me and made me who I am today.
     <br/>
     <br/>
-    In conclusion, It has been an exciting journey working with this wonderful community, and I've gained so much from the experience. As we move forward, there is always room for improvement in every line of code, keep pushing code!
+    In conclusion, It has been an exciting journey working with this wonderful community, and I've gained so much from the experience. This is not an end but a good start to tackle as many open-source projects. I will embrace the open-cource culture I gained from GSoC, keep contributing as well as guiding new contributors!
 </p>
 
 <h1 align = "center" id = "connections">🌐 Let's connect! </h1>
