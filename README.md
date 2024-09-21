@@ -105,14 +105,15 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
 ## Unit test cases development:
 
-  ### 1.Controllers.
-  - **Upgraded different tests including `MaintenanceControllerTest`,`LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `UserContollerTest` to support version 2 specification** [#2826](https://github.com/fossology/fossology/pull/2826)
-   <br />
-   <br />
-  - Added `MaintenanceControllerTest`, and `UploadTreeControllerTest`. [#2764](https://github.com/fossology/fossology/pull/2764)
-  <br />
+  ## Upgradation of REST APIs unit tests to Version 2 👨‍💻 
+  1. Upgrade `/MaintenanceControllerTest`,`LicenseControllerTest`,`GroupControllerTest`,`CopyrightsControllerTest`,`UploadControllerTest`, and `UserContollerTest` to support version 2.
 
-    `MaintenanceControllerTest`
+       - [test(api): upgraded controller test cases to support v2 standards](https://github.com/fossology/fossology/pull/2826)
+
+  2. Added `MaintenanceControllerTest`, and `UploadTreeControllerTest`. 
+       - [test(api): added more unit test cases for maintenance and upload tree…](https://github.com/fossology/fossology/pull/2764)
+
+#### MaintenanceControllerTest
 
    I added more than 5 test cases to ensure that maintenance functionalities work as expected.
 
@@ -129,7 +130,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
     - `LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `FolderControllerTest` [#2827](https://github.com/fossology/fossology/pull/2827) and [#2834]https://github.com/fossology/fossology/pull/2834
   <br />
 
-    `LicenseControllerTest`
+#### LicenseControllerTest
 
       - Improved up to 19 test cases in LicenseControllerTest, checking whether they work propery and meet the expected needs.
       - Added more than 31 new test cases, making sure that all APIs in LicenseController are covered.
@@ -137,7 +138,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/license.png) 
 
-    `UploadControllerTest`
+#### UploadControllerTest
 
       - Improved up to 30 test cases, checking whether they work propery and meet the expected needs.
       - Added more than 16 new test cases, making sure that all APIs in UploadController are covered.
@@ -145,7 +146,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/upload_controller.png)
 
-    `FolderControllerTest`
+#### FolderControllerTest
 
       - Improved up to 20 test cases, checking whether they work propery and meet the expected needs.
       - Added up to 10 new test cases, making sure that all APIs in FolderController are covered.
@@ -153,7 +154,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/folder_controller.png)
 
-    `GroupControllerTest`
+#### GroupControllerTest
 
       - Improved up to 8 existing test cases, checking whether they work propery and meet the expected needs.
       - Added up to 17 new test cases, making sure that all APIs in GroupController are covered.
@@ -161,7 +162,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/group.png)
 
-   `CopyrightsControllerTest`
+#### CopyrightsControllerTest
 
       - Initiated the test and added up to 20 new test cases, making sure that all APIs in CopyrightsController are covered.
       - Checked and verified that the Copyrights API works as expected and meets the requirements.
@@ -173,7 +174,7 @@ Models tests are numerous but I would like to show some screenshoots.
  - `AnaysisTest`, `BulkHistroryTest`, `ScanCodeTest`, `FolderTest` and so on.. [#2825](https://github.com/fossology/fossology/pull/2825)
   <br />
 
-  `AnaysisTest`
+#### AnaysisTest
 
       - Improved up to 5 existing test cases, checking whether member variables and methods in Analysis model work as expected and meet the requirements.
       - Added up to 11 new test cases, making sure that all member variables and methods in Analysis model are covered.
@@ -181,21 +182,21 @@ Models tests are numerous but I would like to show some screenshoots.
 
   ![image](./assets/models/analysis.png) 
 
-  `ScanCodeTest`  
+#### ScanCodeTest
 
       - Created the test and introduced up to 5 new tests, making sure that all member variables and methods in ScanCode model are covered.
       - Checked and verified that the ScanCode model works as expected and meets the requirements.
 
   ![image](./assets/models/scancode.png)
 
-  `BulkHistroryTest`
+#### BulkHistroryTest
 
       - Created the test and introduced up to 8 new tests, making sure that all member variables and methods in BulkHistrory model are covered.
       - Checked and verified that the BulkHistrory model works as expected and meets the requirements.
 
   ![image](./assets/models/history.png) 
 
-  `FolderTest`
+#### FolderTest
 
       - Improved 1 test case that was existing.
       - Added up to 5 new test cases, making sure that all member variables and methods in Folder model are covered.
@@ -205,21 +206,22 @@ Models tests are numerous but I would like to show some screenshoots.
 
    - `LicenseCandidateTest`, `AgentTest`, `DeciderTest`,and so on.. [#2829](https://github.com/fossology/fossology/pull/2829)
   <br />
-  `LicenseCandidateTest`
+
+#### LicenseCandidateTest
 
       - Created the test model and introduced up to 13 new tests, making sure that all member variables and methods in LicenseCandidate model are covered.
       - Checked and verified that the LicenseCandidate model works as expected and meets the requirements.
 
   ![image](./assets/models/lisence_candidate.png) 
 
-  `AgentTest`
+#### AgentTest
 
       - Created the test model and introduced up to 13 new tests, making sure that all member variables and methods in Agent model are covered.
       - Checked and verified that the Agent model works as expected and meets the requirements.
 
   ![image](./assets/models/agent.png)
 
-  `DeciderTest`
+#### DeciderTest
 
       - I enhanced up to 4 tests that were existing.
       - I added up to 2 new tests, making sure that all member variables and methods in Decider model are covered.
@@ -228,9 +230,9 @@ Models tests are numerous but I would like to show some screenshoots.
   ![image](./assets/models/decider.png) 
 
 ## Integration test cases development.
-   - `FolderDAOTest` [#2830](https://github.com/fossology/fossology/pull/2830)
+   - Added more integration test cases for `FolderDAOTest` [#2830](https://github.com/fossology/fossology/pull/2830)
   <br />
-  `FolderDAOTest`
+#### FolderDAOTest
 
       - I enhanced up to 16 tests that were existing.
       - I added up to 13 new tests, making sure that all member variables and methods in FolderDao model are covered.
@@ -238,17 +240,17 @@ Models tests are numerous but I would like to show some screenshoots.
 
   ![image](./assets/daos/folder.png) 
 
-   - `PfileDAOTest`, `ShowJobsDAOTest`,`UploadPermissionsDAOTest`, `UploadDATest` and so on.. [#2832](https://github.com/fossology/fossology/pull/2832)
+   - Added more integration tests for `PfileDAOTest`, `ShowJobsDAOTest`,`UploadPermissionsDAOTest`, `UploadDATest` and so on.. [#2832](https://github.com/fossology/fossology/pull/2832)
   <br />
 
-    `UploadPermissionsDAOTest`
+#### UploadPermissionsDAOTest
 
       - I enhanced and added new test cases, making sure that all member variables and methods in UploadPermissionsDAO model are covered.
       - Checked and verified that the integration between Database, UploadPermissionsDAO and other components work as expected and meets the requirements.
 
   ![image](./assets/daos/upload_permissions.png) 
 
-    `PfileDAOTest`
+#### PfileDAOTest
 
       - I enhanced and added new test cases, making sure that all member variables and methods in PfileDAO model are covered.
       - Checked and verified that the integration between Database, PfileDAO and other components work as expected and meets the requirements.
@@ -256,7 +258,7 @@ Models tests are numerous but I would like to show some screenshoots.
   ![image](./assets/daos/pfile1.png) 
    ![image](./assets/daos/pfile2.png) 
 
-    `ShowJobsDAOTest`
+#### ShowJobsDAOTest
 
       - I enhanced and added new test cases, making sure that all member variables and methods in ShowJobsDAO model are covered.
       - Checked and verified that the integration between Database, ShowJobsDAO and other components work as expected and meets the requirements.
@@ -330,6 +332,9 @@ Being a part of FOSSology was a rewarding experience and journey of growth in my
 Special thanks to <a href="https://github.com/shaheemazmalmmd" target="_blank">Shaheem Azmal M MD</a>, <a href="https://github.com/GMishx" target="_blank">Gaurav Mishra</a>,  <a href="https://github.com/dushimsam" target="_blank">Samuel Dushimimana</a>, and <a href="https://github.com/soham4abc" target="_blank">Soham Banerjee</a> as my mentors. I really appreciate how humble and polite these people are, their full guidance and support has truly shaped me and made me who I am today.
     <br/>
     <br/>
+    I am also thankful to my friend and colleague, <a href="https://github.com/dvjsharma" target="_blank">Divij Sharma</a> for his constant support and motivation throughout the journey. He is great to work with, offering both encouragement and kindness along the way.
+    <br />
+    <br />
     In conclusion, It has been an exciting journey working with this wonderful community, and I've gained so much from the experience. This is not an end but a good start to tackle as many open-source projects. I will embrace the open-cource culture I gained from GSoC, keep contributing as well as guiding new contributors!
 </p>
 
