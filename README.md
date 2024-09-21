@@ -281,7 +281,7 @@ Throughout the 12 weeks of the GSoC period, I created weekly documentation for r
 | Improved and added new integration tests for Data Access Objects| Yes | :heavy_check_mark:(partially) | There's still a work ahead to ensure that all the DAOs follow integration testing standards and also making sure that the test coverage for each is at least 75%. |
 | Adding end-to-end tests for APIs | NO  | :x: | I am going to finalize this in coming weeks after GSoC.
 
-<h1 align = "" id = "future-ventures">Future ventures🚀</h1>
+<h1 align = "" id = "future-ventures">Future Plans🚀</h1>
 
 
 - #### Implement end-to-end tests for FOSSology APIs:
