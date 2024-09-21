@@ -338,7 +338,7 @@ Special thanks to <a href="https://github.com/shaheemazmalmmd" target="_blank">S
     I am also thankful to my friend and colleague, <a href="https://github.com/dvjsharma" target="_blank">Divij Sharma</a> for his constant support and motivation throughout the journey. He is great to work with, offering both encouragement and kindness along the way.
     <br />
     <br />
-    In conclusion, It has been an exciting journey working with this wonderful community, and I've gained so much from the experience. This is not an end but a good start to tackle as many open-source projects. I will embrace the open-cource culture I gained from GSoC, keep contributing as well as guiding new contributors!
+    In conclusion, It has been an exciting journey working with this wonderful community, and I've gained so much from the experience. This is not an end but a good start to tackle as many open-source projects as possible. I will embrace the open-cource culture I gained from GSoC, keep contributing as well as guiding new contributors!
 </p>
 
 <h1 align = "center" id = "connections">🌐 Let's connect! </h1>
