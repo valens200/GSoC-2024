@@ -65,7 +65,7 @@ This project aims to address the need for improving and upgrading APIs on FOSSol
 - Enhance Unit Tests for `/folder`, `/group`, `/license`, `/upload` endpoints.
 - Enhance Unit Tests for `/maintenance`, `/upload_tree`, `/info` endpoints.
 
-### Milestone 2: Complete upgradation & improvement of all endpoints' tests to veersion 2.
+### Milestone 2: Complete upgradation & improvement of all endpoints' tests to version 2.
 
 - Upgrade & Improve `/folder`, `/group`, `/info`,`overview`,`job`,`copyright` tests.
 - Upgrade & Improve `/license`, `/maintenance`, `/upload`, `/user` tests.
@@ -91,7 +91,7 @@ This project aims to address the need for improving and upgrading APIs on FOSSol
 <h1 align = "" id = "contributions">🌏 Contributions</h1>
 
   
-During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration test cases.Through this, I tested all functionalities to verify whether they work as expected and meet the requirements. After finishing unit test cases development for APIs and models, I tackeled integration tests for Data Access Objects (DAOs).
+During my participation in the Google Summer of Code (GSoC) program, I focused on enhancing the quality of the system by improving and adding new unit and integration test cases. Through this, I tested all functionalities to verify whether they work as expected and met the requirements. After finishing unit test cases development for APIs and models, I tackled integration tests for Data Access Objects (DAOs).
 
 1.  #### Unit tests development
  
@@ -100,13 +100,13 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 - Since my collegue [Divij](https://github.com/dvjsharma) was upgrading REST APIs to version 2, the same to my side, I dedicate my time to upgrade all test cases to version 2.
 
 3.  #### Integration tests development
-- Finally, After improving and enhancing some integration tests that were available in Data Access Objects (DAOs), I developed new integration test cases verifying that all DAOs components and database are properly working together to meet the requirements as expected.
+- Finally, After improving and enhancing the existing test cases in Data Access Objects (DAOs), I developed new integration test cases verifying that all DAOs components and database are properly working together to meet the requirements as expected.
 
 
 ## Unit test cases development:
 
   ### 1.Controllers.
-  - Upgraded different tests including `MaintenanceControllerTest`,`LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `UserContollerTest` to support version 2 specification [#2826](https://github.com/fossology/fossology/pull/2826)
+  - **Upgraded different tests including `MaintenanceControllerTest`,`LicenseControllerTest`, `GroupControllerTest`, `CopyrightsControllerTest`,`UploadControllerTest`, and `UserContollerTest` to support version 2 specification** [#2826](https://github.com/fossology/fossology/pull/2826)
    <br />
    <br />
   - Added `MaintenanceControllerTest`, and `UploadTreeControllerTest`. [#2764](https://github.com/fossology/fossology/pull/2764)
