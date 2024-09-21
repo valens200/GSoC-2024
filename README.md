@@ -119,7 +119,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
 
   ![image](./assets/maintenance.png) 
 
-    `UploadTreeControllerTest`
+#### UploadTreeControllerTest
 
       - Improved up to 30 test cases, checking whether they work propery and meet the expected needs.
       - Added 16 more test cases, making sure that all APIs in UploadTreeControllerTest are covered.
@@ -170,6 +170,7 @@ During my participation in the Google Summer of Code (GSoC) program, I focused o
   ![image](./assets/Copyright.png) 
 
 #### Models test cases.
+
 Models tests are numerous but I would like to show some screenshoots.
  - `AnaysisTest`, `BulkHistroryTest`, `ScanCodeTest`, `FolderTest` and so on.. [#2825](https://github.com/fossology/fossology/pull/2825)
   <br />
@@ -230,8 +231,10 @@ Models tests are numerous but I would like to show some screenshoots.
   ![image](./assets/models/decider.png) 
 
 ## Integration test cases development.
+
    - Added more integration test cases for `FolderDAOTest` [#2830](https://github.com/fossology/fossology/pull/2830)
   <br />
+
 #### FolderDAOTest
 
       - I enhanced up to 16 tests that were existing.
