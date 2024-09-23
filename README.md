@@ -332,12 +332,9 @@ In the pipeline are several exciting improvements to look forward to:
 <p align="justify">
 Being a part of FOSSology was a rewarding experience and journey of growth in my crucial aspects of life. The journey was really exciting more than I expected. As my first  endeavor into open-source, I learned the ropes and gained invaluable skills including communication, teamwork, writing clean code and other technical skills that are very crucial in my future ventures. I deeply extend heartfelt gratitude  for the whole FOSSology team especially my mentors for the kindness, patience and invaluable support they gave me throughtout this journey. 
 <br />
-Special thanks to <a href="https://github.com/shaheemazmalmmd" target="_blank">Shaheem Azmal M MD</a>, <a href="https://github.com/GMishx" target="_blank">Gaurav Mishra</a>,  <a href="https://github.com/dushimsam" target="_blank">Samuel Dushimimana</a>, and <a href="https://github.com/soham4abc" target="_blank">Soham Banerjee</a> as my mentors. I really appreciate how humble and polite these people are, their full guidance and support has truly shaped me and made me who I am today.
+Special thanks to <a href="https://github.com/shaheemazmalmmd" target="_blank">Shaheem Azmal M MD</a>, <a href="https://github.com/GMishx" target="_blank">Gaurav Mishra</a>,  <a href="https://github.com/dushimsam" target="_blank">Samuel Dushimimana</a>, and <a href="https://github.com/soham4abc" target="_blank">Soham Banerjee</a> as my mentors. I really appreciate how supportive, responsive, and encouraging these people are, their full guidance and support has truly shaped me and made me who I am today.
     <br/>
     <br/>
-    I am also thankful to my friend and colleague, <a href="https://github.com/dvjsharma" target="_blank">Divij Sharma</a> for his constant support and motivation throughout the journey. He is great to work with, offering both encouragement and kindness along the way.
-    <br />
-    <br />
     In conclusion, It has been an exciting journey working with this wonderful community, and I've gained so much from the experience. This is not an end but a good start to tackle as many open-source projects as possible. I will embrace the open-cource culture I gained from GSoC, keep contributing as well as guiding new contributors!
 </p>
 
